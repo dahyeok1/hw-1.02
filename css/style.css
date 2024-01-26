@@ -1,5 +1,5 @@
 h1 {color: rgb(33, 30, 120); text-align: center; width: 50%; font-size: 100px; margin: auto;}
-img {margin: auto; width: 80%; display: block; border: 10px solid white; margin-top: 50px;}
+img {margin: auto; width: 80%; display: block; border: 10px solid white; margin-top: 50px; border-style: dashed;}
 table {margin-top: 50px; width: 50%; font-size: 24px; border-collapse: collapse; display: flex; justify-content: center; }
 .favpeople {background-color: azure; width: 30%; text-align: left; margin: auto; margin-top: 50px; margin-bottom: 50px; border: 25px solid rgb(80, 80, 174);}
 h2 {color: rgb(33, 33, 134); text-align: center;}
