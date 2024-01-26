@@ -1,0 +1,11 @@
+.colored-background {background-color: rgb(1, 1, 72);padding: 30px;}
+table {border-collapse: collapse; width: 100%;}
+th, td {border: 1px blue; text-align: left; padding: 8px ;}
+image {size: 400px;}
+@font-face {
+    font-family: winkle; 
+    src: url("media/fonts/Winkle-Regular.ttf");
+}
+img {
+    size: 500px;
+}
